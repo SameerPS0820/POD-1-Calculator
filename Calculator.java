@@ -1,5 +1,6 @@
 public class Calculator{
 
+    // this function takes 2 numbers and divide them
     public static int divide(int number1, int number2){
         return number1/number2;
     }
